@@ -1,0 +1,3642 @@
+{
+  "description": "DoH-IP-blocklists\n=======================================\n\nIPv4 addresses of public DoH providers.\n\nUpdated: 2023-02-10 13:15:21 (UTC)\n\n=======================================",
+  "name": "DoH-IP-blocklists",
+  "rules": [
+    {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "1dot1dot1dot1.cloudflare-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "security.cloudflare-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "family.cloudflare-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "1dot1dot1dot1.cloudflare-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "security.cloudflare-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "family.cloudflare-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "puredns.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "puredns.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dotdns.cryptroute.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "uk01.dns4me.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "kr-sel.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.api.staging.globuscs.info"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.api.preview.globus.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.ffmuc.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.nl.ahadns.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "yarp.lefolgoc.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.defaultroutes.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.ginovs.nl"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.google.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.google.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ns2.recursive.dnsbycomodo.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ns1.recursive.dnsbycomodo.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.beauty"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.beauty"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.quad9.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns-nosec.quad9.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns11.quad9.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns12.quad9.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns13.quad9.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.qis.io"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dohtrial.att.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.stevenz.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.brahma.world"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask-api.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask-api.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask-h2.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask-h2.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask-h2.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask-h2.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask-h2.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask-h2.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask-h2.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask-api.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask-api.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask-api.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask-api.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask-api.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mask-api.icloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.dns.apple.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.dns.apple.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.dns.apple.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.dns.apple.com.v.aaplimg.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.tesem.dog"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.azsopro.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.api.rackspacecloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.api.rackspacecloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.api.rackspacecloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.api.rackspacecloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.api.integration.globuscs.info"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.api.globus.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.hakutakucn.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard-dns.turker.info"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.niyawe.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ru-mow.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.stevenz.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.wevpn.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns-weblock.wevpn.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns4me.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "irre.li"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh-01.spectrum.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh-02.spectrum.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.datahata.by"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.nala.ru"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.gcp.pathofgrace.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.api.sandbox.globuscs.info"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.api.sandbox.globuscs.info"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.api.sandbox.globuscs.info"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "httpdns-push.heytapmobile.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.api.globus.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.bitdefender.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard.ambiya.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.safesurfer.io"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard.shuting.idv.tw"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.emiliyan.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.invisv.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "your-dns.run"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.dnswarden.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh1.b-cdn.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.kernel-error.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.k3nny.fr"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.lars-lehmann.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dohtrial.att.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.233py.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard.k0rap.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.api.test.globuscs.info"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.d4d.moe"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.d4d.moe"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "use-application-dns.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "use-application-dns.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "use-application-dns.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "nsc.torgues.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.elemental.software"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ny.teradns.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.eastau.pi-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.southam.family"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.aquilenet.fr"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.7vpn.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.la.ahadns.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.seby.io"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "at.pzhg.me"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "tx.teradns.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.startupstack.tech"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.in.ahadns.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.dnshome.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "anycast.dns.nextdns.io"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "anycast.dns.nextdns.io"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh-ch.blahdns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.it.ahadns.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "hk-hkg.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.es.ahadns.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.pl.ahadns.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "uk.teradns.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.artikel10.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dnsse.alekberg.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.42l.fr"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.murgi.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.rafn.is"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.li"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "c.cicitt.ch"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.wewitro.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.hostux.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.hostux.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "rdns.faelix.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "rdns.faelix.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.beauty"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.bebasid.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "bld.sys-adm.in"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ueni.dyndns.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.novg.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.oszx.co"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.kawa.tf"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.stevenz.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.neowutran.ovh"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "opennic2.i2pd.xyz"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "pi1.node15.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "fr-dns1.bancuh.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "resolver-eu.lelux.fi"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.novg.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "id.terra.my.id"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ns1-doh.iriseden.fr"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ns2-doh.iriseden.fr"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.api.globus.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "au02.dns4me.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "asia.dnscepat.id"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.rezhajul.io"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard.aa4.co.uk"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dnslow.me"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "spacedns.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ns1.flodns.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ns2.flodns.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "au01.dns4me.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doth.huque.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "sg01.dns4me.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "us02.dns4me.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "us01.dns4me.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "tw2.ooroot.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.ceai.com.tw"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "de-dus.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.dns.apple.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.dns.apple.com.v.aaplimg.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard.wirimij.nl"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.eastas.pi-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh-primary-pool.detoxifypornblocker.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns1.ryan-palmer.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "zougloub.eu"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "resolver4.dns.openinternet.io"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.wevpn.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns-weblock.wevpn.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.eddi.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ordns.he.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "pihole3.hoerli.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "freedns.controld.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.hanmey.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh-de.blahdns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adfree.usableprivacy.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.decloudus.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "nl-ams.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "nl-ams.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "nl-ams.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "nl-ams.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "nl-ams.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.sellan.fr"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "us1.dns.lavate.ch"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "jackyes.ovh"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "res-acst1.absolight.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "res-acst2.absolight.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "res-acst3.absolight.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "resolver2.absolight.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "resolver1.absolight.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "resolver3.absolight.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "pates.services.sfr.fr.casepp.sfr.fr"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.t53.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "nsec.arnor.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "zrh1-ns01.monzoon.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.comss.one"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ns3.opennameserver.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "cloud.tezoi.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ipoac.nl"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.funil.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "pihole4.hoerli.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.colorfreedom.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "rayneau.fr"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.funtopia.tv"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard.onlyfriends.info"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dandelionsprout.asuscomm.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "pihole1.hoerli.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.centraleu.pi-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "a-bld.sys-adm.in"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dnsnl-noads.alekberg.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "buc-m2.illmods.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "xray.krnl.eu"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "unicast.censurfridns.dk"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.pyry.me"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.nic.lv"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.tls-data.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.east.comss.one"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "testaghome.meshkov.info"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "privacydns.go6lab.si"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "anycast.uncensoreddns.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.comss.one"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.east.comss.one"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.surfshark.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "jabber-germany.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.digitalsize.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "chaos-system.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.adguard-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns-family.adguard.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns-unfiltered.adguard.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns-unfiltered.adguard.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.adguard-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns-family.adguard.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.sidnlabs.nl"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "opennic1.eth-services.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "meganerd.nl"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "timmes.nl"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.njal.la"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "cube.neubsi.at"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.froth.zone"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.truong.fi"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "pope.cnblw.me"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.northeu.pi-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "fuchur.pentament.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh-fi.blahdns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "eu1.dns.lavate.ch"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.xfinity.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ca01.dns4me.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.futuredns.me"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "httpdns-push.heytapmobile.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.tuna.tsinghua.edu.cn"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "edns.233py.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.totoro.pub"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.twnic.tw"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.360.cn"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.360.cn"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "public.dns.iij.jp"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "public.dns.iij.jp"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "nz01.dns4me.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "jp-dns1.bancuh.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.syaifullah.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "jp-nrt.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.infotek.net.id"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "hk2.ooroot.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.gi.co.id"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh-sg.blahdns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "sg.teradns.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "query.hdns.io"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.futa.gg"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.cloudflare.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.cloudflare.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "cloudflare-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "cloudflare-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "tor.cloudflare-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "tor.cloudflare-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "chrome.cloudflare-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "chrome.cloudflare-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "resolver.unstoppable.io"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "resolver.unstoppable.io"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "arashi.eu.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.crypto.sx"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.dns.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "basic.rethinkdns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.hafidzradhival.my.id"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.tiarap.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.paesa.es"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.hotta.page"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard-ironhide.ultima-thule.ru"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "basic.bravedns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.velyn.my.id"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.ccb-net.it"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "aihe.app"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.silen.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "himedns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.disconnect.app"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.killtw.im"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard-server.cf"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "blitz.ahadns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "blitz.ahadns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ns.00dani.me"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.bofh.in"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "lux1.nixnet.xyz"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "commons.host"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "us-ny-alula.heliumcloud.cc"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "resolver.noaddns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ca.doh.cloudveil.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.b612.me"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.233py.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "nsec.arnor.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.edgy.network"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "secure-dns.dns-ga.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.kamilszczepanski.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "a-bld.sys-adm.in"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "opencdn.jomodns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.indust.me"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard.cloudmini.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.libredns.gr"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.rin.sh"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.daw.dev"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.molinero.dev"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dnsenc.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.david888.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.kosan.moe"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "qlf-doh.inria.fr"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.iucc.ac.il"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.scapetical.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.stevenz.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.us-phoenix-1.oraclecloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ibuki.cgnat.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.us-ashburn-1.oraclecloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.switch.ch"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.switch.ch"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.eu-frankfurt-1.oraclecloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard.nielsvoorn.nl"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard-kartoffel.zernico.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.jeroenhd.nl"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.hottis.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.youni.win"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.theres.one"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.ha-dvin.pp.ua"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.uk-london-1.oraclecloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ines.zfn.uni-bremen.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.ibr.cs.tu-bs.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "pihole2.hoerli.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.lars-lehmann.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "bld.sys-adm.in"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.powerdns.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "v.dnscrypt.uk"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "chewbacca.meganerd.nl"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.almir1904.eu"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "cluster-0.gac.edu"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "cluster-1.gac.edu"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.captnemo.in"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "sg-dns1.bancuh.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh-2.seby.io"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "hitian.me"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "berd.moe"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.zzuhacker.cn"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.b612.me"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.moulticast.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.ntu.ssooss.win"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "kr1.ooroot.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "kr2.ooroot.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard.haneulo.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.linkr.ninja"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "awan.ftp.sh"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "esel.stusta.mhn.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "muli.stusta.mhn.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "1a.ns.ozer.im"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "in-blr.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "au-syd.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.opendns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.familyshield.opendns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.sandbox.opendns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.lightmaster.pw"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.appliedprivacy.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "de-fra.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "de-fra.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "de-fra.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "de-fra.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "de-fra.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "galileo.math.unipd.it"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "pluton.plan9-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns2.dnscrypt.ca"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns9.quad9.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns10.quad9.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns11.quad9.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns12.quad9.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns13.quad9.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.quad9.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "private.canadianshield.cira.ca"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "protected.canadianshield.cira.ca"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "family.canadianshield.cira.ca"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "private.canadianshield.cira.ca"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "protected.canadianshield.cira.ca"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "family.canadianshield.cira.ca"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "opennic.i2pd.xyz"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard.zachitect.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "tor.vasi.li"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "jp2.ooroot.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.infosec.xyz"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "kaitain.restena.lu"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.islandnet.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "do.shimul.me"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "mail.data.haus"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "sa01.dns4me.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh-primary-pool.goodbyegambling.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.kescher.at"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.pub"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "sg-sin.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "easyhandshake.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.dnscrypt.uk"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "do.dnscrypt.uk"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.melalandia.tk"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.syshero.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.vinnyp.xyz"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns1.dnscrypt.ca"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns-doh.dnsforfamily.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.hinet.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.hinet.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.justinnetworkingsolutions.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.meeo.win"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "jpdns.cola16.app"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.chromeina.top"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.frank-ruan.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "sg2.ooroot.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.nhtsky.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns-nyc.aaflalo.me"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ca02.dns4me.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "chromium.dns.nextdns.io"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.micronets.in"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adblock.borjalopez.eu"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "freedom.mydns.network"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "blitz.ahadns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.crypto.sx"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.silen.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard-ironhide.ultima-thule.ru"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.disconnect.app"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.hotta.page"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "arashi.eu.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.dns.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "basic.rethinkdns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.velyn.my.id"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "himedns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.tiarap.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.hafidzradhival.my.id"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.paesa.es"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.ccb-net.it"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "bravedns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.killtw.im"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard-server.cf"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "aihe.app"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.stevenz.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "jp.tiar.app"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.therifleman.name"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "clientdns3.softcom.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "us1.blissdns.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dohdot.coxlab.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.tiar.app"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.rubyfish.cn"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dnsforge.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.ihaveacloud.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dnsforge.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "nsec.arnor.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.vinokurov.tk"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "nsc.torgues.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.shecan.ir"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "pro.shecan.ir"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "nsec.arnor.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ns2.opennameserver.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.zephyrus.id"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard.jfchenier.ca"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "iris.woozeno.eu"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ee-tll.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ee-tll.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ee-tll.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ee-tll.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ee-tll.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "odvr.nic.cz"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "pro.shecan.ir"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.shecan.ir"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "uk-lon.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.fancyorg.at"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.digitale-gesellschaft.ch"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.digitale-gesellschaft.ch"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.port53.dk"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.ndo.dev"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "rdns.faelix.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "rdns.faelix.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.ffmuc.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.no.ahadns.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ns4.opennameserver.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "abel.waringer-atg.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.circl.lu"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.ny.ahadns.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.cleanbrowsing.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.cleanbrowsing.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.lars-lehmann.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.dnslify.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "resolver.r0cket.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "masters-of-cloud.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.luigi.nexific.it"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns01.flm9.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.npe.bz"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.grqu.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "de.teradns.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dukun.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "blackhole.myon.lu"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.xcom.pro"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard.ender.fr"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.nullgate.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns1.in-berlin.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.reckoningslug.name"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "odvr.nic.cz"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.cloudfiction.eu"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.chi.ahadns.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.hahnjo.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.bortzmeyer.fr"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.b612.me"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.b612.me"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ns1.qquack.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.blokada.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.blokada.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.belnet.be"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.belnet.be"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "www.morbitzer.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "lastentarvike.fi"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "nl-ams2.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "nl-ams2.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "nl-ams2.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "nl-ams2.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "nl-ams2.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.mullvad.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adblock.doh.mullvad.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "rumpelsepp.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "cubedns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "cubedns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "us.doh.cloudveil.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.cmrg.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "sby-doh.limotelu.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ny1.nixnet.xyz"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "jp-kix.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "jp-kix.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "jp-kix.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "jp-kix.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "jp-kix.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.warpnine.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.zfsystem.tech"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "neatdns.ustclug.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.slinkyman.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "kswro.web.id"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ricko.is"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.stevenz.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "wyx.cloud"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.cloudtrust.solutions"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "kronos.plan9-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "lv1.nixnet.xyz"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.dyn1.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguardhome.atakorah.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "www.c-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "bld.sys-adm.in"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.datacore.ch"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh-jp.blahdns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.quickline.ch"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.quickline.ch"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "adguard.dekonix.ru"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns1.conne.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.lars-lehmann.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dnstls.mobik.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.beta.gandi.net"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ibksturm.synology.me"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "chromium.dns.nextdns.io"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "doh.niyawe.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ca-yyc.doh.sb"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "vpsus3.pzhg.me"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "helios.plan9-dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "br.servers.legat.ml"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.telekom.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.telekom.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "nsec.arnor.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.clanless.ovh"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ns1.opennameserver.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "secure-dns.dns-ga.de"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.aa.net.uk"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.aa.net.uk"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "hshh.org"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.lsho.top"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "ihctw.synology.me"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.ipv6dns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.alidns.com"
+    }
+    , {
+      "action": "deny",
+      "notes": "",
+      "process": "any",
+      "remote-domains": "dns.alidns.com"
+    }
+  ]
+}
