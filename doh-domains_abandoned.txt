@@ -6,7 +6,6 @@ canadianshield.cira.ca
 de.adhole.org
 dns.233py.com.cdn.cloudflare.net
 dns.aaflalo.me
-dns.anonymous.pw
 dns.arapurayil.com
 dns.bayas.dev
 dns.cfiec.net
@@ -19,7 +18,6 @@ dns.emeraldonion.org
 dns.maybe.icu
 dns.nixnet.xyz
 dns.onp.cloud
-dns.oszx.co
 dns.post-factum.tk
 dns.pumplex.com
 dns.ypbind.de
