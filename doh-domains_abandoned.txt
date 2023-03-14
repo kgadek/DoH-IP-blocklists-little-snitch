@@ -18,6 +18,7 @@ dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dyn1.de
 dns.emeraldonion.org
+dns.futuredns.me
 dns.maybe.icu
 dns.nixnet.xyz
 dns.onp.cloud
