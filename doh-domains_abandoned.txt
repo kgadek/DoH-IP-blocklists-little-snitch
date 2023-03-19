@@ -17,6 +17,7 @@ dns.cybershell.xyz
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
+dns.dyn1.de
 dns.emeraldonion.org
 dns.futuredns.me
 dns.maybe.icu
@@ -46,6 +47,8 @@ fi.doh.dns.snopyta.org
 himedns.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
+ibksturm.synology.me
+ihctw.synology.me
 jcdns.fun
 nebula.tru.io
 please.dontsteal.my.id
