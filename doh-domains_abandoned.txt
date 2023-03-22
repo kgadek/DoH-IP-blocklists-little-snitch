@@ -19,6 +19,7 @@ dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dyn1.de
 dns.emeraldonion.org
+dns.flatuslifir.is
 dns.futuredns.me
 dns.maybe.icu
 dns.nixnet.xyz
@@ -33,7 +34,6 @@ doh.armadillodns.net
 doh.au.ahadns.net
 doh.doh.my.id
 doh.gslb2.xfinity.com
-doh.jeroenhd.nl
 doh.kutu.my.id
 doh.linuxsec.org
 doh.netweaver.uk
