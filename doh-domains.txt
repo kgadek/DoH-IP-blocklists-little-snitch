@@ -517,5 +517,4 @@ wyx.cloud
 xray.krnl.eu
 yarp.lefolgoc.net
 your-dns.run
-zougloub.eu
 zrh1-ns01.monzoon.net
