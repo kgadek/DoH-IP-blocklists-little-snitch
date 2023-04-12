@@ -112,7 +112,6 @@ dns.daw.dev
 dns.decloudus.com
 dns.digitale-gesellschaft.ch
 dns.digitalsize.net
-dns.dnshome.de
 dns.dnswarden.com
 dns.dyn1.de
 dns.east.comss.one
@@ -156,6 +155,7 @@ dns.lars-lehmann.net
 dns.lightmaster.pw
 dns.linkr.ninja
 dns.lsho.top
+dns.maybe.icu
 dns.meeo.win
 dns.melalandia.tk
 dns.molinero.dev
@@ -330,6 +330,7 @@ doh.xcom.pro
 doh.xfinity.com
 doh.zephyrus.id
 doh1.b-cdn.net
+dohdot.coxlab.net
 dohtrial.att.net
 dotdns.cryptroute.com
 doth.huque.com
