@@ -47,7 +47,6 @@ hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 jcdns.fun
-masters-of-cloud.de
 nebula.tru.io
 sg.yepdns.com
 tundranet.hec.to
