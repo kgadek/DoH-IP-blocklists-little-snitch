@@ -5,6 +5,7 @@ anydoh.sidnlabs.nl
 asia.dnscepat.id
 berd.moe
 canadianshield.cira.ca
+dandelionsprout.asuscomm.com
 de.adhole.org
 dns-asia.wugui.zone
 dns.233py.com.cdn.cloudflare.net
@@ -30,6 +31,7 @@ doh.armadillodns.net
 doh.au.ahadns.net
 doh.doh.my.id
 doh.gslb2.xfinity.com
+doh.infotek.net.id
 doh.kutu.my.id
 doh.linuxsec.org
 doh.netweaver.uk

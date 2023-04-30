@@ -60,7 +60,6 @@ cluster-1.gac.edu
 commons.host
 cube.neubsi.at
 cubedns.com
-dandelionsprout.asuscomm.com
 de-dus.doh.sb
 de-fra.doh.sb
 de.teradns.org
@@ -283,7 +282,6 @@ doh.gcp.pathofgrace.com
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
 doh.in.ahadns.net
-doh.infotek.net.id
 doh.it.ahadns.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
