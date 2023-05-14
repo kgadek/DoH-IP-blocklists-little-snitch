@@ -89,7 +89,6 @@ dns.aquilenet.fr
 dns.artikel10.org
 dns.azsopro.net
 dns.b612.me
-dns.bayas.dev
 dns.bebasid.com
 dns.belnet.be
 dns.beta.gandi.net

@@ -10,6 +10,7 @@ dns-asia.wugui.zone
 dns.233py.com.cdn.cloudflare.net
 dns.aaflalo.me
 dns.arapurayil.com
+dns.bayas.dev
 dns.cfiec.net
 dns.containerpi.com
 dns.cybershell.xyz
