@@ -1,6 +1,7 @@
 1.xhr0no.my
 adblock.mydns.network
 adguard-dns.turker.info
+adguard.ambiya.net
 anydoh.sidnlabs.nl
 asia.dnscepat.id
 berd.moe
@@ -17,6 +18,7 @@ dns.cybershell.xyz
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
+dns.edgy.network
 dns.emeraldonion.org
 dns.nixnet.xyz
 dns.onp.cloud

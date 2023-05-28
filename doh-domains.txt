@@ -11,7 +11,6 @@ adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard-server.cf
 adguard.aa4.co.uk
-adguard.ambiya.net
 adguard.cloudmini.net
 adguard.dekonix.ru
 adguard.ender.fr
@@ -117,7 +116,6 @@ dns.dnswarden.com
 dns.dyn1.de
 dns.east.comss.one
 dns.eddi.net
-dns.edgy.network
 dns.elemental.software
 dns.emiliyan.com
 dns.eu-frankfurt-1.oraclecloud.com
