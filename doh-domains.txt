@@ -167,9 +167,9 @@ dns.njal.la
 dns.novg.net
 dns.npe.bz
 dns.nullgate.net
-dns.oszx.co
 dns.paesa.es
 dns.pub
+dns.pumplex.com
 dns.quad9.net
 dns.rafn.is
 dns.reckoningslug.name
