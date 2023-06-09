@@ -22,7 +22,6 @@ dns.edgy.network
 dns.emeraldonion.org
 dns.nixnet.xyz
 dns.onp.cloud
-dns.oszx.co
 dns.post-factum.tk
 dns.wugui.zone
 dns.ypbind.de
