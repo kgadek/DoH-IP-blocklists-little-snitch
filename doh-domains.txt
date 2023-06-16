@@ -277,6 +277,7 @@ doh.ffmuc.net
 doh.funil.de
 doh.funtopia.tv
 doh.futa.gg
+doh.gcp.pathofgrace.com
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
 doh.in.ahadns.net
