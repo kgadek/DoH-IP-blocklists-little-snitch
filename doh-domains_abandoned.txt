@@ -39,6 +39,7 @@ doh.pi-dns.com
 doh.post-factum.tk
 doh.this.web.id
 doh2.abmb.win
+dohtrial.att.net
 dos.bytetel.net
 draco.plan9-ns2.com
 eropa.dnscepat.id
