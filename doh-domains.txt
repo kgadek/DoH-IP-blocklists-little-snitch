@@ -330,6 +330,7 @@ doh.xfinity.com
 doh.zephyrus.id
 doh1.b-cdn.net
 dohdot.coxlab.net
+dohtrial.att.net
 dotdns.cryptroute.com
 doth.huque.com
 dukun.de
