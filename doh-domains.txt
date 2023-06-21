@@ -23,7 +23,6 @@ adguard.shuting.idv.tw
 adguard.wirimij.nl
 adguard.zachitect.com
 adguardhome.atakorah.com
-aihe.app
 anycast.censurfridns.dk
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
