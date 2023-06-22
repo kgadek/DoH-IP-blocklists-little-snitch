@@ -385,6 +385,7 @@ kr-sel.doh.sb
 kr1.ooroot.com
 kr2.ooroot.com
 kronos.plan9-dns.com
+kswro.web.id
 lastentarvike.fi
 lux1.nixnet.xyz
 lv1.nixnet.xyz
