@@ -22,6 +22,7 @@ dns.dnsoverhttps.net
 dns.doh.my.id
 dns.edgy.network
 dns.emeraldonion.org
+dns.frank-ruan.com
 dns.nixnet.xyz
 dns.onp.cloud
 dns.post-factum.tk
@@ -51,6 +52,7 @@ hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 iris.woozeno.eu
 jcdns.fun
+kswro.web.id
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 sg.yepdns.com

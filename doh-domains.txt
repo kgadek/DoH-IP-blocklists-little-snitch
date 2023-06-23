@@ -119,7 +119,6 @@ dns.emiliyan.com
 dns.eu-frankfurt-1.oraclecloud.com
 dns.fancyorg.at
 dns.flatuslifir.is
-dns.frank-ruan.com
 dns.froth.zone
 dns.futuredns.me
 dns.gi.co.id
@@ -385,7 +384,6 @@ kr-sel.doh.sb
 kr1.ooroot.com
 kr2.ooroot.com
 kronos.plan9-dns.com
-kswro.web.id
 lastentarvike.fi
 lux1.nixnet.xyz
 lv1.nixnet.xyz
