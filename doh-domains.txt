@@ -148,7 +148,6 @@ dns.kernel-error.de
 dns.kescher.at
 dns.kosan.moe
 dns.lars-lehmann.net
-dns.lightmaster.pw
 dns.linkr.ninja
 dns.lsho.top
 dns.maybe.icu
