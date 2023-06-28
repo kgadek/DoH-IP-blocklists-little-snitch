@@ -111,7 +111,6 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
-dns.dyn1.de
 dns.east.comss.one
 dns.eddi.net
 dns.elemental.software
@@ -457,7 +456,6 @@ resolver.unstoppable.io
 resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
-resolver4.dns.openinternet.io
 rethinkdns.com
 ricko.is
 rpz-public-resolver1.rrdns.pch.net
