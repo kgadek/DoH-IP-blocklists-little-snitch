@@ -7,7 +7,6 @@ anydoh.sidnlabs.nl
 asia.dnscepat.id
 berd.moe
 canadianshield.cira.ca
-cloud.tezoi.com
 cube.neubsi.at
 dandelionsprout.asuscomm.com
 de.adhole.org
@@ -53,6 +52,8 @@ himedns.com
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
+ibksturm.synology.me
+ihctw.synology.me
 iris.woozeno.eu
 jcdns.fun
 please.dontsteal.my.id
