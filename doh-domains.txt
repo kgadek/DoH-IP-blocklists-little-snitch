@@ -51,13 +51,11 @@ chewbacca.meganerd.nl
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clientdns3.softcom.net
-cloud.tezoi.com
 cloudflare-dns.com
 cluster-0.gac.edu
 cluster-1.gac.edu
 commons.host
 cubedns.com
-dandelionsprout.asuscomm.com
 de-dus.doh.sb
 de-fra.doh.sb
 de.teradns.org

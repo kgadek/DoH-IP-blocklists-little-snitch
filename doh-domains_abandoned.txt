@@ -7,7 +7,9 @@ anydoh.sidnlabs.nl
 asia.dnscepat.id
 berd.moe
 canadianshield.cira.ca
+cloud.tezoi.com
 cube.neubsi.at
+dandelionsprout.asuscomm.com
 de.adhole.org
 dns-asia.wugui.zone
 dns.233py.com.cdn.cloudflare.net
