@@ -27,6 +27,7 @@ dns.lightmaster.pw
 dns.nixnet.xyz
 dns.onp.cloud
 dns.post-factum.tk
+dns.pumplex.com
 dns.wugui.zone
 dns.ypbind.de
 dnses.alekberg.net
