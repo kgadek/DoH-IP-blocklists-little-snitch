@@ -137,7 +137,6 @@ dns.hotta.page
 dns.ihaveacloud.com
 dns.indust.me
 dns.infosec.xyz
-dns.invisv.com
 dns.ipv6dns.com
 dns.islandnet.com
 dns.justinnetworkingsolutions.com

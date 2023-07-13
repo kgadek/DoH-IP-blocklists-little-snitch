@@ -23,6 +23,7 @@ dns.doh.my.id
 dns.edgy.network
 dns.emeraldonion.org
 dns.frank-ruan.com
+dns.invisv.com
 dns.lightmaster.pw
 dns.nixnet.xyz
 dns.onp.cloud
