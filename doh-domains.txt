@@ -17,6 +17,7 @@ adguard.ender.fr
 adguard.haneulo.com
 adguard.jfchenier.ca
 adguard.k0rap.com
+adguard.nielsvoorn.nl
 adguard.onlyfriends.info
 adguard.shuting.idv.tw
 adguard.wirimij.nl
@@ -99,6 +100,7 @@ dns.clanless.ovh
 dns.cloudfiction.eu
 dns.cloudflare.com
 dns.cloudtrust.solutions
+dns.cmrg.net
 dns.colorfreedom.org
 dns.comss.one
 dns.d4d.moe

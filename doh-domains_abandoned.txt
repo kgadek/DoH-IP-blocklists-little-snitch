@@ -2,7 +2,6 @@
 adblock.mydns.network
 adguard-dns.turker.info
 adguard.ambiya.net
-adguard.nielsvoorn.nl
 aihe.app
 anydoh.sidnlabs.nl
 asia.dnscepat.id
@@ -16,7 +15,6 @@ dns.aaflalo.me
 dns.arapurayil.com
 dns.bayas.dev
 dns.cfiec.net
-dns.cmrg.net
 dns.containerpi.com
 dns.cybershell.xyz
 dns.dns-over-https.com
