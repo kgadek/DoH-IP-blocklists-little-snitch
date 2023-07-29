@@ -16,7 +16,6 @@ adguard.dekonix.ru
 adguard.ender.fr
 adguard.haneulo.com
 adguard.jfchenier.ca
-adguard.k0rap.com
 adguard.nielsvoorn.nl
 adguard.onlyfriends.info
 adguard.shuting.idv.tw
