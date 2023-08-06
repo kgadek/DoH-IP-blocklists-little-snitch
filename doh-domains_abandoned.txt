@@ -9,6 +9,7 @@ asia.dnscepat.id
 berd.moe
 canadianshield.cira.ca
 cube.neubsi.at
+dandelionsprout.asuscomm.com
 de.adhole.org
 dns-asia.wugui.zone
 dns.233py.com.cdn.cloudflare.net
@@ -55,6 +56,8 @@ himedns.com
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
+ibksturm.synology.me
+ihctw.synology.me
 iris.woozeno.eu
 jcdns.fun
 kswro.web.id

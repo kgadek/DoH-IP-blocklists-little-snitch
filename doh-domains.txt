@@ -56,7 +56,6 @@ cluster-0.gac.edu
 cluster-1.gac.edu
 commons.host
 cubedns.com
-dandelionsprout.asuscomm.com
 de-dus.doh.sb
 de-fra.doh.sb
 de.teradns.org
@@ -356,10 +355,8 @@ hshh.org
 httpdns-push.heytapmobile.com
 i.233py.com
 i.passcloud.xyz
-ibksturm.synology.me
 ibuki.cgnat.net
 id.terra.my.id
-ihctw.synology.me
 in-blr.doh.sb
 ines.zfn.uni-bremen.de
 ipoac.nl
