@@ -56,6 +56,7 @@ cluster-0.gac.edu
 cluster-1.gac.edu
 commons.host
 cubedns.com
+dandelionsprout.asuscomm.com
 de-dus.doh.sb
 de-fra.doh.sb
 de.teradns.org
@@ -65,7 +66,6 @@ dns-family.adguard.com
 dns-nosec.quad9.net
 dns-nyc.aaflalo.me
 dns-unfiltered.adguard.com
-dns-weblock.wevpn.com
 dns.7vpn.com
 dns.aa.net.uk
 dns.adguard-dns.com
@@ -193,7 +193,6 @@ dns.us-phoenix-1.oraclecloud.com
 dns.vinnyp.xyz
 dns.vinokurov.tk
 dns.warpnine.de
-dns.wevpn.com
 dns.youni.win
 dns.zfsystem.tech
 dns.zzuhacker.cn
@@ -355,8 +354,10 @@ hshh.org
 httpdns-push.heytapmobile.com
 i.233py.com
 i.passcloud.xyz
+ibksturm.synology.me
 ibuki.cgnat.net
 id.terra.my.id
+ihctw.synology.me
 in-blr.doh.sb
 ines.zfn.uni-bremen.de
 ipoac.nl
