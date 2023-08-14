@@ -60,6 +60,7 @@ i.233py.com.a.bdydns.com
 iris.woozeno.eu
 jcdns.fun
 kswro.web.id
+nat64.tuxis.nl
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 secure-dns.dns-ga.de
