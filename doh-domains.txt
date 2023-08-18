@@ -127,7 +127,6 @@ dns.grqu.de
 dns.ha-dvin.pp.ua
 dns.hafidzradhival.my.id
 dns.hahnjo.de
-dns.hakutakucn.com
 dns.hanmey.de
 dns.hinet.net
 dns.hostux.net
