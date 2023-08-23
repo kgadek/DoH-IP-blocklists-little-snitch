@@ -20,7 +20,6 @@ adguard.nielsvoorn.nl
 adguard.onlyfriends.info
 adguard.shuting.idv.tw
 adguard.wirimij.nl
-adguard.zachitect.com
 adguardhome.atakorah.com
 anycast.censurfridns.dk
 anycast.dns.nextdns.io
@@ -498,7 +497,6 @@ www.jabber-germany.de
 www.masters-of-cloud.de
 www.morbitzer.de
 wyx.cloud
-xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 your-dns.run
