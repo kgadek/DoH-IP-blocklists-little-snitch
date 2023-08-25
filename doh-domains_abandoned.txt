@@ -63,6 +63,7 @@ iris.woozeno.eu
 jcdns.fun
 jit.ddns.net
 kswro.web.id
+ns2.recursive.dnsbycomodo.com
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 secure-dns.dns-ga.de
