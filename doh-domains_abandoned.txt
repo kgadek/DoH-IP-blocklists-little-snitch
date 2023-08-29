@@ -3,7 +3,6 @@ adblock.mydns.network
 adguard-dns.turker.info
 adguard.ambiya.net
 adguard.k0rap.com
-adguard.zachitect.com
 aihe.app
 anydoh.sidnlabs.nl
 asia.dnscepat.id

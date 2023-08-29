@@ -20,6 +20,7 @@ adguard.nielsvoorn.nl
 adguard.onlyfriends.info
 adguard.shuting.idv.tw
 adguard.wirimij.nl
+adguard.zachitect.com
 adguardhome.atakorah.com
 anycast.censurfridns.dk
 anycast.dns.nextdns.io
