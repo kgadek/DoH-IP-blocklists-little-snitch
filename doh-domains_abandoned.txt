@@ -1,4 +1,5 @@
 1.xhr0no.my
+a-bld.sys-adm.in
 adblock.mydns.network
 adguard-dns.turker.info
 adguard.ambiya.net
@@ -7,6 +8,7 @@ aihe.app
 anydoh.sidnlabs.nl
 asia.dnscepat.id
 berd.moe
+bld.sys-adm.in
 canadianshield.cira.ca
 cube.neubsi.at
 de.adhole.org
