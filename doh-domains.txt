@@ -293,6 +293,7 @@ doh.northeu.pi-dns.com
 doh.ntu.ssooss.win
 doh.ny.ahadns.net
 doh.opendns.com
+doh.pi-dns.com
 doh.pl.ahadns.net
 doh.port53.dk
 doh.powerdns.org
@@ -338,7 +339,6 @@ fr1.dnswarden.com
 free.bravedns.com
 free.shecan.ir
 freedns.controld.com
-freedom.mydns.network
 fuchur.pentament.de
 galileo.math.unipd.it
 google-public-dns-a.google.com
