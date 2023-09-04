@@ -293,7 +293,6 @@ doh.northeu.pi-dns.com
 doh.ntu.ssooss.win
 doh.ny.ahadns.net
 doh.opendns.com
-doh.pi-dns.com
 doh.pl.ahadns.net
 doh.port53.dk
 doh.powerdns.org
