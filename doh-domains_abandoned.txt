@@ -10,6 +10,7 @@ asia.dnscepat.id
 berd.moe
 bld.sys-adm.in
 canadianshield.cira.ca
+chewbacca.meganerd.nl
 cube.neubsi.at
 de.adhole.org
 dns-asia.wugui.zone
