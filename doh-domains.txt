@@ -188,6 +188,7 @@ dns.us-phoenix-1.oraclecloud.com
 dns.vinnyp.xyz
 dns.vinokurov.tk
 dns.warpnine.de
+dns.youni.win
 dns.zfsystem.tech
 dns.zzuhacker.cn
 dns01.flm9.net
