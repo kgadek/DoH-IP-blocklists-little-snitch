@@ -61,7 +61,6 @@ dns-doh-no-safe-search.dnsforfamily.com
 dns-doh.dnsforfamily.com
 dns-family.adguard.com
 dns-nosec.quad9.net
-dns-nyc.aaflalo.me
 dns-unfiltered.adguard.com
 dns.7vpn.com
 dns.aa.net.uk

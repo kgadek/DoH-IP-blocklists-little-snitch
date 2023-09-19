@@ -14,6 +14,7 @@ chewbacca.meganerd.nl
 cube.neubsi.at
 de.adhole.org
 dns-asia.wugui.zone
+dns-nyc.aaflalo.me
 dns-weblock.wevpn.com
 dns.233py.com.cdn.cloudflare.net
 dns.aaflalo.me
