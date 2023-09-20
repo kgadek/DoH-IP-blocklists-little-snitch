@@ -70,7 +70,6 @@ jit.ddns.net
 kswro.web.id
 please.dontsteal.my.id
 resolver-eu.lelux.fi
-secure-dns.dns-ga.de
 sg.yepdns.com
 tundranet.hec.to
 us-chi-doh.sb
