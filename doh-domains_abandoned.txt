@@ -43,8 +43,6 @@ dnses.alekberg.net
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
-doh.beauty
-doh.buzz
 doh.doh.my.id
 doh.gslb2.xfinity.com
 doh.kutu.my.id

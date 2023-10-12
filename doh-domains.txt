@@ -236,7 +236,9 @@ doh.42l.fr
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.asia.dnswarden.com
+doh.beauty
 doh.bortzmeyer.fr
+doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
 doh.centraleu.pi-dns.com
