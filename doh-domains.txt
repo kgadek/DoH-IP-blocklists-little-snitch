@@ -253,6 +253,7 @@ doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
 doh.dnscrypt.uk
+doh.dnslify.com
 doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
