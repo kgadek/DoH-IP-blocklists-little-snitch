@@ -170,7 +170,6 @@ dns.silen.org
 dns.slinkyman.net
 dns.startupstack.tech
 dns.stevenz.net
-dns.surfshark.com
 dns.switch.ch
 dns.syaifullah.com
 dns.t53.de
