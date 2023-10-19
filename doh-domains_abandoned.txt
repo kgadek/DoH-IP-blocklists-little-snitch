@@ -68,6 +68,7 @@ iris.woozeno.eu
 jcdns.fun
 jit.ddns.net
 kswro.web.id
+nat64.tuxis.nl
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 sg.yepdns.com
