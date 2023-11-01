@@ -454,7 +454,6 @@ secure-dns.dns-ga.de
 security.cloudflare-dns.com
 sg-dns1.bancuh.com
 sg-sin.doh.sb
-sg.adhole.org
 sg.teradns.org
 sg01.dns4me.net
 sg1.dnswarden.com
@@ -469,14 +468,11 @@ tw2.ooroot.com
 tx.teradns.org
 ueni.dyndns.org
 uk-lon.doh.sb
-uk.adhole.org
 uk.teradns.org
 uk01.dns4me.net
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
-us-central.adhole.org
-us-east.adhole.org
 us-ny-alula.heliumcloud.cc
 us.doh.cloudveil.org
 us01.dns4me.net
