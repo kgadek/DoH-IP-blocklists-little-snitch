@@ -6,7 +6,6 @@ adguard.ambiya.net
 adguard.k0rap.com
 aihe.app
 anydoh.sidnlabs.nl
-asia.dnscepat.id
 berd.moe
 bld.sys-adm.in
 canadianshield.cira.ca
@@ -55,7 +54,6 @@ doh.this.web.id
 doh.velyn.my.id
 dos.bytetel.net
 draco.plan9-ns2.com
-eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 freedom.mydns.network
@@ -64,7 +62,6 @@ hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 iris.woozeno.eu
-jcdns.fun
 jit.ddns.net
 kswro.web.id
 please.dontsteal.my.id
