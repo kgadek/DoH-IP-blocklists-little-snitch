@@ -5,6 +5,7 @@ a.passcloud.xyz
 abel.waringer-atg.de
 adblock.borjalopez.eu
 adblock.doh.mullvad.net
+adblock.mydns.network
 adfree.usableprivacy.net
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
