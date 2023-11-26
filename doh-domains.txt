@@ -189,6 +189,7 @@ dns.vinnyp.xyz
 dns.vinokurov.tk
 dns.warpnine.de
 dns.youni.win
+dns.zfsystem.tech
 dns.zzuhacker.cn
 dns01.flm9.net
 dns1.conne.net

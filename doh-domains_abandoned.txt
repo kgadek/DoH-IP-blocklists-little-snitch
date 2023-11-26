@@ -39,7 +39,6 @@ dns.surfshark.com
 dns.wevpn.com
 dns.wugui.zone
 dns.ypbind.de
-dns.zfsystem.tech
 dnses.alekberg.net
 doh.armadillodns.net
 doh.au.ahadns.net
