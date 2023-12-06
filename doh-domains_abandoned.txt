@@ -61,6 +61,7 @@ hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 iris.woozeno.eu
 kswro.web.id
+neatdns.ustclug.org
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 sg.adhole.org
