@@ -30,6 +30,7 @@ dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.invisv.com
 dns.lightmaster.pw
+dns.lsho.top
 dns.nixnet.xyz
 dns.onp.cloud
 dns.oszx.co

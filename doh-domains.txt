@@ -143,7 +143,6 @@ dns.kescher.at
 dns.kosan.moe
 dns.lars-lehmann.net
 dns.linkr.ninja
-dns.lsho.top
 dns.maybe.icu
 dns.meeo.win
 dns.melalandia.tk
