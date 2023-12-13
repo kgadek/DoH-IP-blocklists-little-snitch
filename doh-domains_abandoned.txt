@@ -9,7 +9,6 @@ berd.moe
 bld.sys-adm.in
 canadianshield.cira.ca
 chewbacca.meganerd.nl
-cloud.tezoi.com
 de.adhole.org
 dns-asia.wugui.zone
 dns-nyc.aaflalo.me
@@ -42,6 +41,7 @@ dns.wevpn.com
 dns.wugui.zone
 dns.ypbind.de
 dnses.alekberg.net
+doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
 doh.doh.my.id
@@ -53,6 +53,7 @@ doh.pi-dns.com
 doh.post-factum.tk
 doh.this.web.id
 doh.velyn.my.id
+doh2.abmb.win
 dos.bytetel.net
 draco.plan9-ns2.com
 example.doh.blockerdns.com

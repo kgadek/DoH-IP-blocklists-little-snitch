@@ -232,7 +232,6 @@ doh-sg.blahdns.com
 doh.233py.com
 doh.360.cn
 doh.42l.fr
-doh.abmb.win
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.asia.dnswarden.com
@@ -315,7 +314,6 @@ doh.xcom.pro
 doh.xfinity.com
 doh.zephyrus.id
 doh1.b-cdn.net
-doh2.abmb.win
 dohdot.coxlab.net
 dohtrial.att.net
 dotdns.cryptroute.com
