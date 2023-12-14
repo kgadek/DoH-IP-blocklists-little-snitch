@@ -26,7 +26,6 @@ anycast.censurfridns.dk
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 arashi.eu.org
-asia.dnscepat.id
 at.pzhg.me
 au-syd.doh.sb
 au01.dns4me.net
@@ -324,7 +323,6 @@ easyhandshake.com
 edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
-eropa.dnscepat.id
 esel.stusta.mhn.de
 eu1.dns.lavate.ch
 family.adguard-dns.com
@@ -359,7 +357,6 @@ ipoac.nl
 irre.li
 jabber-germany.de
 jackyes.ovh
-jcdns.fun
 jit.ddns.net
 jp-dns1.bancuh.com
 jp-kix.doh.sb
