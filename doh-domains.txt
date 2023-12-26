@@ -279,7 +279,6 @@ doh.luigi.nexific.it
 doh.lv
 doh.micronets.in
 doh.mullvad.net
-doh.nala.ru
 doh.neowutran.ovh
 doh.nic.lv
 doh.niyawe.de
