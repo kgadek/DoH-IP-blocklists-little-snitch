@@ -34,7 +34,6 @@ dns.lightmaster.pw
 dns.lsho.top
 dns.nixnet.xyz
 dns.onp.cloud
-dns.oszx.co
 dns.post-factum.tk
 dns.pumplex.com
 dns.surfshark.com
