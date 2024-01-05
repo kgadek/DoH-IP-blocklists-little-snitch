@@ -10,7 +10,6 @@ berd.moe
 bld.sys-adm.in
 canadianshield.cira.ca
 chewbacca.meganerd.nl
-cloud.tezoi.com
 de.adhole.org
 dns-asia.wugui.zone
 dns-nyc.aaflalo.me
@@ -66,12 +65,10 @@ himedns.com
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
-ihctw.synology.me
 iris.woozeno.eu
 jcdns.fun
 kswro.web.id
 neatdns.ustclug.org
-pates.services.sfr.fr.casepp.sfr.fr
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 sg.adhole.org
