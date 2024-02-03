@@ -48,6 +48,7 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clientdns3.softcom.net
+cloud.tezoi.com
 cloudflare-dns.com
 cluster-0.gac.edu
 cluster-1.gac.edu
@@ -338,6 +339,7 @@ hshh.org
 httpdns-push.heytapmobile.com
 i.233py.com
 i.passcloud.xyz
+ibksturm.synology.me
 ibuki.cgnat.net
 id.terra.my.id
 ihctw.synology.me
