@@ -9,7 +9,6 @@ adblock.mydns.network
 adfree.usableprivacy.net
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
-adguard-server.cf
 adguard.aa4.co.uk
 adguard.cloudmini.net
 adguard.dekonix.ru
