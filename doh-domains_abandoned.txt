@@ -11,6 +11,7 @@ berd.moe
 bld.sys-adm.in
 canadianshield.cira.ca
 chewbacca.meganerd.nl
+cloud.tezoi.com
 de.adhole.org
 dns-asia.wugui.zone
 dns-nyc.aaflalo.me
@@ -39,7 +40,6 @@ dns.oszx.co
 dns.post-factum.tk
 dns.pumplex.com
 dns.surfshark.com
-dns.vinokurov.tk
 dns.wevpn.com
 dns.wugui.zone
 dns.ypbind.de

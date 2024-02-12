@@ -47,7 +47,6 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clientdns3.softcom.net
-cloud.tezoi.com
 cloudflare-dns.com
 cluster-0.gac.edu
 cluster-1.gac.edu
@@ -183,6 +182,7 @@ dns.uk-london-1.oraclecloud.com
 dns.us-ashburn-1.oraclecloud.com
 dns.us-phoenix-1.oraclecloud.com
 dns.vinnyp.xyz
+dns.vinokurov.tk
 dns.warpnine.de
 dns.youni.win
 dns.zfsystem.tech
