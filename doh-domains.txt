@@ -47,6 +47,7 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clientdns3.softcom.net
+cloud.tezoi.com
 cloudflare-dns.com
 cluster-0.gac.edu
 cluster-1.gac.edu
@@ -377,12 +378,10 @@ nebula.tru.io
 nl-ams.doh.sb
 nl-ams2.doh.sb
 ns.00dani.me
-ns1-doh.iriseden.fr
 ns1.flodns.net
 ns1.opennameserver.org
 ns1.qquack.org
 ns1.recursive.dnsbycomodo.com
-ns2-doh.iriseden.fr
 ns2.flodns.net
 ns2.opennameserver.org
 ns2.recursive.dnsbycomodo.com
