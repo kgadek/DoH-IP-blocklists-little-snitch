@@ -4,6 +4,7 @@ adguard-dns.turker.info
 adguard-server.cf
 adguard.ambiya.net
 adguard.k0rap.com
+adguard.nielsvoorn.nl
 aihe.app
 anydoh.sidnlabs.nl
 asia.dnscepat.id
