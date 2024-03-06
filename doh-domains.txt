@@ -190,6 +190,7 @@ dns.zfsystem.tech
 dns.zzuhacker.cn
 dns01.flm9.net
 dns1.conne.net
+dns1.dnscrypt.ca
 dns1.in-berlin.de
 dns1.nextdns.io
 dns1.ryan-palmer.com
