@@ -114,6 +114,7 @@ dns.eu-frankfurt-1.oraclecloud.com
 dns.fancyorg.at
 dns.flatuslifir.is
 dns.froth.zone
+dns.futuredns.me
 dns.gi.co.id
 dns.ginovs.nl
 dns.google
