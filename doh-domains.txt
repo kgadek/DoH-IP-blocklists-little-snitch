@@ -146,7 +146,6 @@ dns.melalandia.tk
 dns.molinero.dev
 dns.moulticast.net
 dns.murgi.de
-dns.ndo.dev
 dns.nextdns.io
 dns.nhtsky.com
 dns.njal.la

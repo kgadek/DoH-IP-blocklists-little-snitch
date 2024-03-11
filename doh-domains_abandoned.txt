@@ -34,6 +34,7 @@ dns.hakutakucn.com
 dns.invisv.com
 dns.lightmaster.pw
 dns.lsho.top
+dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
 dns.post-factum.tk
