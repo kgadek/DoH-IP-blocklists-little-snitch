@@ -2,6 +2,7 @@
 a-bld.sys-adm.in
 adguard-dns.turker.info
 adguard-server.cf
+adguard.aa4.co.uk
 adguard.ambiya.net
 adguard.k0rap.com
 adguard.nielsvoorn.nl
@@ -18,6 +19,7 @@ dns-nyc.aaflalo.me
 dns-weblock.wevpn.com
 dns.233py.com.cdn.cloudflare.net
 dns.aaflalo.me
+dns.anonymous.pw
 dns.arapurayil.com
 dns.bayas.dev
 dns.cfiec.net
