@@ -12,6 +12,7 @@ berd.moe
 bld.sys-adm.in
 canadianshield.cira.ca
 chewbacca.meganerd.nl
+cloud.tezoi.com
 de.adhole.org
 dns-asia.wugui.zone
 dns-nyc.aaflalo.me
@@ -87,6 +88,7 @@ ns1-doh.iriseden.fr
 ns2-doh.iriseden.fr
 please.dontsteal.my.id
 resolver-eu.lelux.fi
+resolver.r0cket.net
 sg.adhole.org
 sg.yepdns.com
 tundranet.hec.to
