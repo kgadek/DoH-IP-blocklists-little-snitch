@@ -93,7 +93,6 @@ dns.clanless.ovh
 dns.cloudfiction.eu
 dns.cloudflare.com
 dns.cloudtrust.solutions
-dns.cmrg.net
 dns.colorfreedom.org
 dns.comss.one
 dns.d4d.moe
