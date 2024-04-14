@@ -244,7 +244,6 @@ doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
 doh.dnscrypt.uk
-doh.dnslify.com
 doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
@@ -414,6 +413,7 @@ res-acst1.absolight.net
 res-acst2.absolight.net
 res-acst3.absolight.net
 resolver.noaddns.com
+resolver.r0cket.net
 resolver.unstoppable.io
 resolver1.absolight.net
 resolver2.absolight.net
