@@ -82,6 +82,7 @@ hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 iris.woozeno.eu
+irre.li
 jcdns.fun
 jit.ddns.net
 kswro.web.id
@@ -94,6 +95,7 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 please.dontsteal.my.id
 resolver-eu.lelux.fi
+resolver4.dns.openinternet.io
 sg.adhole.org
 sg.yepdns.com
 tundranet.hec.to
