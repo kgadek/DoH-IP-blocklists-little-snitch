@@ -95,7 +95,6 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 please.dontsteal.my.id
 resolver-eu.lelux.fi
-resolver4.dns.openinternet.io
 sg.adhole.org
 sg.yepdns.com
 tundranet.hec.to
