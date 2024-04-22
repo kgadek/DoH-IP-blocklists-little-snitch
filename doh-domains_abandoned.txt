@@ -1,5 +1,6 @@
 1.xhr0no.my
 a-bld.sys-adm.in
+a.passcloud.xyz
 adguard-dns.turker.info
 adguard-server.cf
 adguard.ambiya.net
@@ -81,6 +82,7 @@ himedns.com
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
+i.passcloud.xyz
 iris.woozeno.eu
 irre.li
 jcdns.fun
