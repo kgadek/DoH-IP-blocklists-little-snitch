@@ -241,6 +241,7 @@ doh.defaultroutes.de
 doh.disconnect.app
 doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
+doh.dns.sb
 doh.dnscrypt.uk
 doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
