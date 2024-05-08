@@ -35,6 +35,7 @@ blitz-setup.ahadns.com
 blitz.ahadns.com
 br.servers.legat.ml
 bravedns.com
+buc-m2.illmods.com
 c.cicitt.ch
 ca-yyc.doh.sb
 ca.doh.cloudveil.org
