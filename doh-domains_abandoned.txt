@@ -4,6 +4,7 @@ a.passcloud.xyz
 adguard-dns.turker.info
 adguard-server.cf
 adguard.ambiya.net
+adguard.jfchenier.ca
 adguard.k0rap.com
 adguard.nielsvoorn.nl
 aihe.app
@@ -28,6 +29,7 @@ dns.cybershell.xyz
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
+dns.dyn1.de
 dns.edgy.network
 dns.emeraldonion.org
 dns.frank-ruan.com
@@ -71,7 +73,6 @@ doh.post-factum.tk
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
-doh.zephyrus.id
 doh2.abmb.win
 dos.bytetel.net
 draco.plan9-ns2.com
@@ -84,6 +85,7 @@ hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
 iris.woozeno.eu
+irre.li
 jcdns.fun
 jit.ddns.net
 kswro.web.id

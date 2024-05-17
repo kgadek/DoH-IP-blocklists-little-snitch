@@ -13,7 +13,6 @@ adguard.cloudmini.net
 adguard.dekonix.ru
 adguard.ender.fr
 adguard.haneulo.com
-adguard.jfchenier.ca
 adguard.onlyfriends.info
 adguard.shuting.idv.tw
 adguard.wirimij.nl
@@ -103,7 +102,6 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
-dns.dyn1.de
 dns.east.comss.one
 dns.eddi.net
 dns.elemental.software
@@ -294,6 +292,7 @@ doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
+doh.zephyrus.id
 doh1.b-cdn.net
 dohdot.coxlab.net
 dohtrial.att.net
@@ -335,7 +334,6 @@ ihctw.synology.me
 in-blr.doh.sb
 ines.zfn.uni-bremen.de
 ipoac.nl
-irre.li
 jabber-germany.de
 jackyes.ovh
 jp-dns1.bancuh.com
