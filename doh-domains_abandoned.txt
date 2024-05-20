@@ -43,6 +43,7 @@ dns.onp.cloud
 dns.post-factum.tk
 dns.pumplex.com
 dns.surfshark.com
+dns.truong.fi
 dns.wevpn.com
 dns.wugui.zone
 dns.ypbind.de
