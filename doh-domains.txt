@@ -8,11 +8,11 @@ adblock.mydns.network
 adfree.usableprivacy.net
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
-adguard.aa4.co.uk
 adguard.cloudmini.net
 adguard.dekonix.ru
 adguard.ender.fr
 adguard.haneulo.com
+adguard.jfchenier.ca
 adguard.onlyfriends.info
 adguard.shuting.idv.tw
 adguard.wirimij.nl
@@ -199,7 +199,6 @@ dns64.cloudflare-dns.com
 dns64.dns.google
 dns9.quad9.net
 dnscache.e-utp.net
-dnsenc.com
 dnsforge.de
 dnslow.me
 dnsnl-noads.alekberg.net

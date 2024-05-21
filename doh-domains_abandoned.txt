@@ -3,8 +3,8 @@ a-bld.sys-adm.in
 a.passcloud.xyz
 adguard-dns.turker.info
 adguard-server.cf
+adguard.aa4.co.uk
 adguard.ambiya.net
-adguard.jfchenier.ca
 adguard.k0rap.com
 adguard.nielsvoorn.nl
 aihe.app
@@ -50,6 +50,7 @@ dns.ypbind.de
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
+dnsenc.com
 dnses.alekberg.net
 doh.abmb.win
 doh.armadillodns.net
