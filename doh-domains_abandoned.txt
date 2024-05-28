@@ -14,7 +14,6 @@ berd.moe
 bld.sys-adm.in
 canadianshield.cira.ca
 chewbacca.meganerd.nl
-cloud.tezoi.com
 de.adhole.org
 dns-asia.wugui.zone
 dns-nyc.aaflalo.me
