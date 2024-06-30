@@ -124,6 +124,7 @@ dns.hinet.net
 dns.hostux.net
 dns.hotta.page
 dns.ihaveacloud.com
+dns.indust.me
 dns.infosec.xyz
 dns.ipv6dns.com
 dns.islandnet.com
