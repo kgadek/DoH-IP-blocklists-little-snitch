@@ -92,6 +92,7 @@ jcdns.fun
 jit.ddns.net
 kswro.web.id
 neatdns.ustclug.org
+nebula.tru.io
 ns1-doh.iriseden.fr
 ns2-doh.iriseden.fr
 odoh-target-noads-se.alekberg.net

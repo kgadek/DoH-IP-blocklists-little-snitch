@@ -359,7 +359,6 @@ mozilla.cloudflare-dns.com
 muli.stusta.mhn.de
 nat64.tuxis.nl
 ndns.233py.com
-nebula.tru.io
 nl-ams.doh.sb
 nl-ams2.doh.sb
 ns.00dani.me
