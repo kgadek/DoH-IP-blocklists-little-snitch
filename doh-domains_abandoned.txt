@@ -50,6 +50,7 @@ dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
+dns-free.link
 dns-nyc.aaflalo.me
 dns-public.ibakerserver.pt
 dns-secondary.cloudnx.cloud
@@ -174,7 +175,6 @@ fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
 hk.rslvr.eu
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
